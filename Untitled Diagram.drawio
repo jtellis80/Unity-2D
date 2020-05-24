@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-05-24T01:48:18.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="nvkn8nIiQl35tCBs0d3Z" version="13.1.3" type="github"><diagram id="iFrnpqUqrUvM_LkgC43C" name="Page-1">7Vffb5swEP5r8pgpwEK7xybtVmmrJjXVpj06cIBXw1FjQrK/fnfGhJCuUTYl2qT1pdif77fP3zWjYJ6vP2hRZncYgxr5k3g9Cq5Hvu9NLt/Sh5FNi0xDvwVSLWMn1AML+QM6TYfWMoZqIGgQlZHlEIywKCAyA0xojc1QLEE19FqKFJ4Bi0io5+hXGZusRS+nkx6/BZlmnWdv4k5y0Qk7oMpEjM0OFNyMgrlGNO0qX89BcfG6urR671843QamoTDHKKBX+vBx9XTnlzV+uR2v5Of7cehiM5suYYgpf7dFbTJMsRDqpkdnGusiBrY6oV0v8wmxJNAj8DsYs3GXKWqDBGUmV+609cmOXkzFQRXWOoID8XctIXQK5oDcdFtw6lTAHIzekJ4GJYxcDeMQrmXSrVxfVVq4wv5GkS//kyJf/M0iO7sroWrnaeSHynBRvEHxw6ean9wswcKMK1u+KxLwwnLdH9Iq5e+CkjaySEmAlgY6mxQim22FOjCWqw76hjUn2YhHKGiB/MdkYGmOb5azYUxYTiLzc14AqNYXVYflsU4zWmyssUysWL9SUBqrpVmwsJZQx7Kw4U1ETvZZABO2IXN4Q1+Kh8UzENY1m68amefkjo+vuqBaV/ZcWBKrqs5UBcDiamM9JrKQ1l8s9GMBVcVmHmyGWFgZZVlxx1hh+ZgWy5rxVAndZkvcDTZfYeWVqnObTadYMpXajBuhY3IUipwewaxYVuVO+elOdm7gF5fSQUu9j5xQde+lG1ib4cOsjMZHmKOiC2SRIA6X4TTkjqTUd/AkSfwoYo1SRFyp4Hra7x4sD4x9pocmo7tYEM5OGxrETBkr0ImyAyeTcUxtuE8qEeYycmu6jKpyayWWoIhyYtBdNAXfUDArQVM/GdCLbUQTWydNo1dSk5N3qPo6UAiU/2H+ec4XTiFwc3Mz3Db9FPbeOSzbmcBbwZMzzPQsDHOPmHvH0sprGx5ow1P0nDdsOv/IpvP8czXdxT811q66gZZozJn8NYj8aBLlUbGl8/Nztht29I/Rdhj94eBoBPWr7mZ2m8brszvhs9uj+oszPjva9r+57NnOL9fg5ic=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-24T01:49:17.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="iDsVmsgnYkyBhORBASle" version="13.1.3" type="github">
+  <diagram id="iFrnpqUqrUvM_LkgC43C" name="Page-1">
+    <mxGraphModel dx="1084" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o1p2eKvqM2puoVH-viOR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o1p2eKvqM2puoVH-viOR-1" target="o1p2eKvqM2puoVH-viOR-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o1p2eKvqM2puoVH-viOR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o1p2eKvqM2puoVH-viOR-1" target="o1p2eKvqM2puoVH-viOR-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o1p2eKvqM2puoVH-viOR-1" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;Starting State&lt;/h1&gt;&lt;div&gt;You awaken on the ground in a fog, feeling as though you have slept for an inordinate amount of time. Your head is swimming. Around you is a mass of seemingly infinite darkness. The only light is a narrow but glaring cone that illuminates a path forward.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Follow the path into the light&lt;/div&gt;&lt;div&gt;2. Stumble into the darkness&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;comic=0;glass=0;labelBorderColor=none;perimeterSpacing=0;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="30" y="30" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="o1p2eKvqM2puoVH-viOR-5" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;Room1&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;comic=0;glass=0;labelBorderColor=none;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="310" y="20" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="o1p2eKvqM2puoVH-viOR-7" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;Starting State&lt;/h1&gt;&lt;div&gt;Awaken from dream&lt;/div&gt;&lt;div&gt;dark path&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;head to light&amp;nbsp;&lt;/div&gt;&lt;div&gt;wander in dark&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;comic=0;glass=0;labelBorderColor=none;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="370" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
